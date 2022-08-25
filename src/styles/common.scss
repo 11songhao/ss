@@ -1,0 +1,19 @@
+// 自己全局样式
+// 重置饿了吗样式
+// 弹出层
+.el-dialog__header {
+  background: #66b1ff;
+
+  .el-icon-close:before {
+    color: #fff;
+  }
+
+  .el-dialog__title {
+    color: #fff;
+  }
+}
+
+#nprogress .bar {
+  background: rgb(145, 233, 2) !important;
+  height: 6px !important;
+}
